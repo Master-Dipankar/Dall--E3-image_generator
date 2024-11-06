@@ -9,4 +9,4 @@ Installation:
    - Click "More info"
    - Click "Run anyway"
 
-For support, contact: [Your Contact Info]
+For support, contact me on github.
